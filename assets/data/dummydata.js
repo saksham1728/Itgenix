@@ -50,33 +50,34 @@ export const expertise = [
 export const testimonial = [
   {
     id: 1,
-    name: "Alexander Black",
+    name: "Vikram Singh",
     cover: "../images/e1.jpg",
     post: "Seven consulting - CEO",
     desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
   },
   {
     id: 2,
-    name: "Diana Green",
+    name: "Priya Sharma",
     cover: "../images/e2.jpg",
-    post: "Seven Arts - marketing manager",
+    post: "Seven Arts - Marketing Manager",
     desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
   },
   {
     id: 3,
-    name: "Alexander Black",
+    name: "Arjun Rao",
     cover: "../images/e3.jpg",
     post: "Seven consulting - CEO",
     desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
   },
   {
     id: 4,
-    name: "Diana Green",
+    name: "Meera Nair",
     cover: "../images/e4.jpg",
-    post: "Seven Arts - marketing manager",
+    post: "Seven Arts - Marketing Manager",
     desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
   },
 ]
+
 export const showcase = [
   {
     id: 1,
@@ -174,44 +175,44 @@ export const blogdata = [
 export const teamdata = [
   {
     id: 1,
-    title: "Alexander Black",
+    title: "Aarav Sharma",
     cover: "../images/t1.jpg",
     post: "FOUNDER, CEO",
   },
   {
     id: 2,
-    title: "Anna Kovalenko",
-    cover: "../images/t2.jpg",
+    title: "Priya Singh",
+    cover: "../images/t1.jpg",
     post: "FINANCE DIRECTOR",
   },
   {
     id: 3,
-    title: "Tiffany White",
-    cover: "../images/t3.jpg",
+    title: "Rohan Patel",
+    cover: "../images/t1.jpg",
     post: "CREATIVE DIRECTOR",
   },
   {
     id: 4,
-    title: "Richard Greenwood",
-    cover: "../images/t4.jpg",
+    title: "Sneha Gupta",
+    cover: "../images/t1.jpg",
     post: "PROGRAMMER",
   },
   {
     id: 5,
-    title: "Jessica Brown",
-    cover: "../images/t5.jpg",
+    title: "Vikram Mehta",
+    cover: "../images/t1.jpg",
     post: "MARKETING DIRECTOR",
   },
   {
     id: 6,
-    title: "Gregory Windstorm",
-    cover: "../images/t6.jpg",
+    title: "Neha Reddy",
+    cover: "../images/t1.jpg",
     post: "ACCOUNTING MANAGER",
   },
   {
     id: 7,
-    title: "Anna Red",
-    cover: "../images/t7.jpg",
+    title: "Anjali Rao",
+    cover: "../images/t1.jpg",
     post: "PROJECT MANAGER",
   },
   {

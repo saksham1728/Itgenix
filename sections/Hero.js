@@ -12,8 +12,8 @@ const Hero = () => {
     <>
       <section className='hero'>
         <div className='container'>
-          <TitleLogo title='creative' caption='7' className='logobg' />
-          <h1 className='hero-title'>WE BUILD DIGITAL EXPERIENCES</h1>
+          <TitleLogo title='Itgenixs Pvt. Ltd.' caption='' className='logobg' />
+          <h1 className='hero-title'>WE BUILD DIGITAL SKILLS</h1>
 
           <div className='sub-heading'>
             <TitleSm title='WEBSITES' /> <span>.</span>

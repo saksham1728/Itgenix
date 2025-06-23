@@ -76,7 +76,7 @@ const Contact = () => {
                     <input type='text' />
                   </div>
                   <div className='inputs'>
-                    <span>timeframe</span>
+                    <span>timeframes</span>
                     <input type='text' />
                   </div>
                 </div>
