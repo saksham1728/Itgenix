@@ -47,7 +47,7 @@ const Contact = () => {
             <div className="contact-deatils">
               <div className="box">
                 <FiHeadphones size={30} className="icons" />
-                <h3>1-001-234-5678</h3>
+                <h3>+91-9546197882</h3>
                 <span>Call us: Mon - Fri 9:00 - 19:00</span>
               </div>
               <div className="box">
